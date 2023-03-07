@@ -4,6 +4,6 @@ print('Hello somechai')
 
 print('Hello github')
 
-friend = ['loong','pa lek','loong Dam']
+friend = ['loong','pa hig','loong Dam']
 
 print(friend[0])
